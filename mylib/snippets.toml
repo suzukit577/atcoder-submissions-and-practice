@@ -1,0 +1,119 @@
+[[snippet]]
+name = "Popcount"
+prefix = "popcount"
+path = "bit/popcount.py"
+description = "立っているビットの個数"
+
+[[snippet]]
+name = "Count numbers with i-th bit set"
+prefix = "count_numbers_with_i_th_bit_set"
+path = "bit/count_set_bits.py"
+description = "指定したビットが立つ整数の個数"
+
+[[snippet]]
+name = "Union-Find"
+prefix = "UnionFind"
+path = "data_structures/union_find.py"
+description = "Union-Find"
+
+[[snippet]]
+name = "Segment Tree"
+prefix = "SegmentTree"
+path = "data_structures/segment_tree.py"
+description = "一点更新と区間積"
+
+[[snippet]]
+name = "Breadth-first search"
+prefix = "bfs_distances"
+path = "graph/bfs.py"
+description = "無重みグラフの最短距離"
+
+[[snippet]]
+name = "Depth-first search"
+prefix = "dfs_order"
+path = "graph/dfs.py"
+description = "深さ優先探索順"
+
+[[snippet]]
+name = "Dijkstra"
+prefix = "Dijkstra"
+path = "graph/dijkstra.py"
+description = "非負重み付きグラフの単一始点最短経路"
+
+[[snippet]]
+name = "Bellman-Ford"
+prefix = "bellman_ford"
+path = "graph/bellman_ford.py"
+description = "負辺を含むグラフの単一始点最短経路"
+
+[[snippet]]
+name = "Floyd-Warshall"
+prefix = "Floyd_Warshall"
+path = "graph/floyd_warshall.py"
+description = "全頂点対最短経路"
+
+[[snippet]]
+name = "Kruskal"
+prefix = "kruskal"
+path = "graph/kruskal.py"
+description = "最小全域森"
+
+[[snippet]]
+name = "Rotate matrix"
+prefix = "rotate_matrix"
+path = "matrix/rotate.py"
+description = "行列を時計回りに90度回転"
+
+[[snippet]]
+name = "3D cumulative sum"
+prefix = ["build_cumulative_sum_3d", "query_cumulative_sum_3d"]
+path = "matrix/cumulative_sum_3d.py"
+description = "3次元累積和の構築と区間和"
+
+[[snippet]]
+name = "Divisors"
+prefix = "make_divisors"
+path = "number_theory/divisors.py"
+description = "約数列挙"
+
+[[snippet]]
+name = "Prime factorization"
+prefix = "prime_factorization"
+path = "number_theory/prime_factorization.py"
+description = "素因数分解"
+
+[[snippet]]
+name = "Primality test"
+prefix = "isprime"
+path = "number_theory/is_prime.py"
+description = "素数判定"
+
+[[snippet]]
+name = "Sieve of Eratosthenes"
+prefix = "Eratosthenes"
+path = "number_theory/sieve.py"
+description = "エラトステネスの篩"
+
+[[snippet]]
+name = "Modular inverse"
+prefix = "mod_inverse_via_extended_Euclidean"
+path = "number_theory/mod_inverse.py"
+description = "拡張ユークリッドの互除法による乗法逆元"
+
+[[snippet]]
+name = "Run-length encoding"
+prefix = "run_length_encode"
+path = "sequence/run_length_encode.py"
+description = "ランレングス圧縮"
+
+[[snippet]]
+name = "Coordinate compression"
+prefix = "coordinate_compression"
+path = "sequence/coordinate_compression.py"
+description = "座標圧縮"
+
+[[snippet]]
+name = "Keys from value"
+prefix = "get_keys_from_value"
+path = "utils/keys_from_value.py"
+description = "辞書の値からキーを取得"

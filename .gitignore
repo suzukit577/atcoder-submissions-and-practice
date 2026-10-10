@@ -1,0 +1,32 @@
+# macOS
+**/*.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.out
+
+# 仮想環境
+.venv/
+
+# VSCode
+.vscode/
+
+# Agentのlocal-only設定
+CLAUDE.local.md
+.claude/settings.local.json
+.agent-handoff.md
+/.ai/reviews/
+/.codex/config.toml
+
+# Poetry
+poetry.toml
+
+# プロジェクト固有
+PAST/
+
+# ヒューリスティックの生成物
+heuristic/**/in/
+heuristic/**/out/
+heuristic/**/logs/
+heuristic/**/target/
